@@ -5,4 +5,4 @@ Sample readme
 ereretre
 
 harmadik modosita
-
+szerkesztem távolban
